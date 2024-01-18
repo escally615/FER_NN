@@ -1,5 +1,3 @@
 # FER_NN
-A deep learning convolutional neural network for facial expression recognition with the FER-2013 dataset from Kaggle
 
-Created for a research internship in the lab of Dr. Badri Adhikari at UMSL, using the dataset FER 2013 from Kaggle
-Uses a convolutional neural network to identify and classify facial expressions into 4 categories, happy, sad, angry, or scared
+I used the FER 2013 dataset from Kaggle and pre-trained models to create a model that can identify and classify facial expressions into one of four categories: happy, angry, sad, or scared, using Python and the libraries Pandas, Tensorflow, and Keras. 
